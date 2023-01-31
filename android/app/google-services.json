@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790312239944",
+    "project_id": "flutterhooks",
+    "storage_bucket": "flutterhooks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790312239944:android:4fb2ed3fddc439d478e97d",
+        "android_client_info": {
+          "package_name": "com.example.hooks_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790312239944-mcg5q3iv5uv30higbgrahch6ib3e5pui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGz37gHPFJkG9Kdw8MCZLLdIxD0rHn9HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790312239944-mcg5q3iv5uv30higbgrahch6ib3e5pui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
