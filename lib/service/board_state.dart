@@ -7,7 +7,7 @@ import 'board_provider.dart';
 // dynamicにしているのは実はよろしくなかったりする.
 // モデルクラスがあればそれを型に使う.
 final boardStateProvider = StateNotifierProvider<BoardState, dynamic>((ref) {
-  // Riverpod2.0はここの引数にrefを書かなければエラーになる!
+  // final Ref _ref;を書いたら、クラスにコンストラクターできるので、引数がいる。なので、refと書かないとエラーが出る。
   return BoardState(ref);
 });
 
